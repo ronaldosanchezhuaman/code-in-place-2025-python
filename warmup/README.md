@@ -8,3 +8,6 @@ Your program should have a main function with three commands:
     3. move()
 
 When you hit the run button, your program will execute line-by-line. After it finishes, Karel's world should look like this:
+
+![image](https://github.com/user-attachments/assets/ad90eff1-734d-40b4-bb11-377bd18ccd04)
+
