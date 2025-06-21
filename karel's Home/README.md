@@ -12,3 +12,5 @@ Karel starts off in the corner of her house as shown in the world. She needs to 
 Even though the program is only a few lines, it is still worth getting at least a little practice in decomposition. In your solution, include a function for moving to the package, and returning to the starting point.
 
 When you are finished the world should look like this:
+
+![image](https://github.com/user-attachments/assets/b5dad08e-7e5b-4880-be75-b42b24e9dee6)
