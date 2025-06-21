@@ -1,8 +1,11 @@
 Karel has picked up a new hobby: doing puzzles! Karel is trying to complete this puzzle made up of beepers. When complete the puzzle should look like this:
 
+![image](https://github.com/user-attachments/assets/845ff92e-7586-4e45-9909-b51988f1a121)
 
 
 Karel is almost done but not finished yet. Below is the current state of Karel's world. The beeper in the bottom most row represents the last piece of the puzzle! Write a program which will get Karel to pick up the last piece, put it in place, and move Karel back to the bottom left corner of the world facing East so she can admire the completed puzzle.
+
+![image](https://github.com/user-attachments/assets/a227ef7f-5600-4186-88d8-b66bc9a17708)
 
 
 To reiterate, you should write the sequence of commands so that Karel will:
