@@ -1,4 +1,4 @@
-# STONE MASON KAREL
+# FILL KAREL
 
 Your task is to help Karel fill the world with beepers, regardless of its size.
 
