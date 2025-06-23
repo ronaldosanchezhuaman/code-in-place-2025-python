@@ -27,7 +27,7 @@ Note: To avoid the assignment being marked incorrect because you did an extensio
 
 If you're up for it, we can make Khansole Academy an even better learning tool. Be creative! We recommend you start with the "three in a row" extension first, then come up with your own :-).
 
-<b>Three in a row:<b>
+<b>Three in a row:</b>
 
 In the previous milestone you wrote code to randomly generate one addition problem at a time and tell the user if they got it right or not. In this milestone, you should randomly generate addition problems until the user has gotten 3 problems correct in a row. (Note: the number of problems the user needs to get correctly in a row to complete the program is just one example of a good place to specify a constant in your program).
 
