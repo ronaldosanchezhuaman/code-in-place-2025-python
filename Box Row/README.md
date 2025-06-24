@@ -4,6 +4,8 @@ Let's practice making graphics with lots of repeated elements. This will help us
 
 Make a line of boxes as shown below, such that the boxes fill the bottom of the canvas. Each box should have a width and height of BOX_SIZE, making a total of 5 boxes perfectly in line with one another:
 
+![image](https://github.com/user-attachments/assets/694f9456-5649-46fa-b33c-fc44be999f26)
+
 To make each individual box visible instead of making a single rectangular box, add optional arguments to your create_rectangle(...) call. The first optional argument is the fill color (in this case "white") and the second optional argument is the outline color (in this case "black"). Calling the function when you add these should look like this:
 
     # Creates a white rectangle 
