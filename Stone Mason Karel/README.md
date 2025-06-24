@@ -2,10 +2,12 @@
 
 Karel has been hired to build the columns in the Temple of Artemis in Efes. In particular, there are a set of arches where the stones (represented by beepers, of course) are missing from the columns supporting the arches, as follows:
 
+![image](https://github.com/user-attachments/assets/29eaebc7-de94-4782-b261-e404d7bf0193)
 
 
 When Karel is done, the missing columns should be replaced by beepers, so the final picture would look like this:
 
+![image](https://github.com/user-attachments/assets/4bb5e877-e755-434c-8880-88f6a30970b5)
 
 
 Karel may count on the following facts about the world, listed below:
