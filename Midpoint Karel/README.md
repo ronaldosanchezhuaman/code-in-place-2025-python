@@ -4,8 +4,11 @@ As an exercise in solving algorithmic problems, you will program to find the mid
 
 Before:
 
+![image](https://github.com/user-attachments/assets/b08db4ab-be75-4dfb-aa50-54c235f1cb12)
 
 After:
+
+![image](https://github.com/user-attachments/assets/c7fbd776-3866-4eda-892c-53dd15f7264b)
 
 
 Note that the final configuration of the world should have only a single beeper at the midpoint of the 1st row. Along the way, Karel is allowed to place additional beepers wherever it wants to, but must pick them all up again before it finishes. Similarly, if Karel paints/colors any of the corners in the world, they must all be uncolored before Karel finishes.
