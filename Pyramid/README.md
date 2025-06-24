@@ -1,6 +1,8 @@
 # Pyramid
 Write a program that draws a pyramid consisting of bricks arranged in horizontal rows, so that the number of bricks in each row decreases by one as you move up the pyramid. A sample run is shown below.
 
+![image](https://github.com/user-attachments/assets/b1cdd6ac-7eeb-4f37-9d80-c0bc1ffb08d8)
+
 The pyramid should be <b>centered</b> at the bottom of the drawing canvas and should use constants for the following values:
 
 <b>BRICK_WIDTH</b> The width of each brick (30 pixels) 
