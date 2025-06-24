@@ -1,7 +1,11 @@
 # QUILT
 A quilt, as you may know, is a blanket often composed of repeating "patches". Here is a quilt in the real world:
 
+![image](https://github.com/user-attachments/assets/53d439c4-37f5-4894-8625-5bc410c04049)
+
 Your first objective is to recreate this quilt:
+
+![image](https://github.com/user-attachments/assets/72711df3-f845-49f8-b997-6f3731a696ae)
 
 Each patch has height and width of 100 pixels, given by the constant PATCH_SIZE. There are two different patch patterns that repeat in different locations.
 
