@@ -1,6 +1,7 @@
 # DRAW FLAG
 Students in Code in Place are from 150 different countries! Wow. Let's celebrate our international class by drawing flags. To start out, one of the most straightforward flags to draw using Python graphics is the flag of Indonesia:
 
+![image](https://github.com/user-attachments/assets/73c9f57e-ad11-409f-b394-161fc946688a)
 
 The dimensions of your flag should be based off the provided constants:
 
