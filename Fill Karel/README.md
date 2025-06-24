@@ -13,4 +13,5 @@ Note that Karel's final position does matter. Karel should be in the top-right c
 
 
 The result should still be a world filled with beepers:
+
 ![image](https://github.com/user-attachments/assets/5fbab559-ecf2-44dd-84ef-6f86fec42f9a)
