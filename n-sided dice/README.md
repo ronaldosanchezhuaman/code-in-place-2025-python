@@ -2,6 +2,7 @@
 
 Did you know that not all dice have 6 sides? You can find dice with 8 sides, 10 sides and even 20 sides. Here are a few examples:
 
+![image](https://github.com/user-attachments/assets/2f3fa1ed-945e-43d5-8ac1-924516ddbfe7)
 
 Write a program which takes as input the number of sides on a dice.  Then, simulate rolling a dice with that many sides. Print the outcome of the roll. When you're done, click on the "Check Correct" button.
 
