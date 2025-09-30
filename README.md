@@ -6,9 +6,9 @@ EJERCICIOS DE CODE IN PLACE 2025
 
 APRENDE PYTHON CON CODE IN PLACE
 
-<li>
-  <ol>APRENDE CON KAREL</ol>
-  <ol>LUEGO CON GRAFICOS</ol>
-  <ol>LUEGO PYTHON</ol>
+<ul>
+  <li>APRENDE CON KAREL</li>
+  <li>LUEGO CON GRAFICOS</li>
+  <li>LUEGO PYTHON</li>
 
-</li>
+</ul>
