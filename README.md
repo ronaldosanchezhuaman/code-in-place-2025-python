@@ -12,17 +12,11 @@
 
 <div>
   <h3>APRENDE PYTHON JUGANDO CON CODE IN PLACE</h3>
-  <pre>
-    <code>
     <ul>
       <li>APRENDE CON KAREL</li>
       <li>LUEGO CON GRAFICOS</li>
       <li>LUEGO PYTHON</li>
     </ul>
-      
-    </code>
-    
-  </pre>
 </div>
 
 <div>
