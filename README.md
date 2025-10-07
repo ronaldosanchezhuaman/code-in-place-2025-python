@@ -1,5 +1,5 @@
 <div>
-  <h3 align="center">code-in-place-2025-python</h3>
+  <h3 align="center">CODE IN PLACE 2025 - PYTHON</h3>
 </div>
 
 
