@@ -10,5 +10,6 @@ APRENDE PYTHON JUGANDO CON CODE IN PLACE
   <li>APRENDE CON KAREL</li>
   <li>LUEGO CON GRAFICOS</li>
   <li>LUEGO PYTHON</li>
-
 </ul>
+
+<code></code>
