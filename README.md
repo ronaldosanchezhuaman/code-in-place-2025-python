@@ -17,10 +17,10 @@ APRENDE PYTHON JUGANDO CON CODE IN PLACE
 <div>
    <h1><b><i>README</i></b></h1>
   <pre>
-  <code>
-  ✔️ Si crees que este repositorio te ha ayudado a aprender algo nuevo, puedes darle una estrella ⭐   
-  ❌ Si no es así, indica «por qué» y envía un mensaje a la sección de incidencias 🚩   
-  </code>  
+    <code>
+    ✔️ Si crees que este repositorio te ha ayudado a aprender algo nuevo, puedes darle una estrella ⭐   
+    ❌ Si no es así, indica «por qué» y envía un mensaje a la sección de incidencias 🚩   
+    </code>  
   </pre> 
 </div>
 
